@@ -1,5 +1,7 @@
 # Magnetschwebebahn
 
+<img alt="Flipper Zero screenshot"  src="assets/fgreil_MagLev_3Dsketch.png" width="30%" />
+
 Idee nach http://www.supermagnete.de/Magnetanwendungen/Schwebender-Zug-Modell
 
 **Benötigte Werkzeuge:** Säge, Schleifpapier (120er Körnung), Lineal, Bleistift
