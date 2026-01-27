@@ -2,19 +2,11 @@
 
 This is a DIY project for a simple magnetic levitation train model using permanent magnets and wood as major components. Educational STEM project demonstrating magnetic repulsion principles.
 
-## Materials Required
+<img alt="Flipper Zero screenshot"  src="assets/fgreil_MagLev_3Dsketch.png" width="40%" />
 
-- Neodymium magnets (15 × 4 × 4 mm)
-- Wooden planks (various dimensions)
-- Wood glue (Ponal Classic)
+**Materials Required**: Neodymium magnets (15 × 4 × 4 mm), wooden planks of various dimensions, wood glue (e.g. Ponal Classic)
 
-## Tools Needed
-
-- Saw
-- Sandpaper (120 grit)
-- Ruler
-- Pencil
-- Optional: Laser cutter for magnet positioning guides
+**Tools Needed:** Saw, sandpaper (120 grit), ruler, pencil. Optional: Laser cutter.
 
 ## ⚠️ Safety Warnings
 
