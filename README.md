@@ -4,11 +4,24 @@
 
 This is a DIY project for a simple magnetic levitation train model using permanent magnets and wood as major components. Educational STEM project demonstrating magnetic repulsion principles.
 
-<img alt="Flipper Zero screenshot"  src="assets/fgreil_MagLev_3Dsketch.png" width="30%" />
+```
+Magnetic levitation system with permanent magnets (15×4×4mm, N-pole up):
 
-**Materials Required**: Neodymium magnets `15mm × 4mm × 4 mm` [Q-15-04-04-MN](https://www.supermagnete.de/eng/block-magnets-neodymium/block-magnet-15mm-4mm-4mm_Q-15-04-04-MN), wooden planks of various dimensions, wood glue (e.g. Ponal Classic)
+RAIL (80mm wide):
+- Two vertical columns of magnets (4mm wide × 15mm long from top)
+- Positioned 5mm from left and right edges
+- at least 8 magnets per column
 
-**Tools Needed:** Saw, sandpaper (120 grit), ruler, pencil. Optional: Laser cutter.
+VEHICLE (80mm wide):
+- Three horizontal rows of magnets (15mm wide × 4mm deep from top)
+- Two magnets per row, aligned above rail columns
+
+ASCII top view:
+RAIL: Two columns of ┌─┐ symbols (magnets)
+VEHICLE: Four rows of ┌───────┐ symbols (magnets rotated 90°)
+
+Goal: Vehicle floats/levitates above rail, can move up/down.
+```
 
 ## ⚠️ Safety Warnings
 
