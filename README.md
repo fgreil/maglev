@@ -29,3 +29,6 @@ Goal: Vehicle floats/levitates above rail, can move up/down.
 - **Choking hazard** for small children
 - Do not use hot glue for the magnets since otherwise they will lose their magnetization
 
+## References
+- https://wiki.comakingspace.de/LaserCut_5.3#Import_Your_File 
+
