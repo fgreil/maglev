@@ -29,8 +29,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.7874548"
-     inkscape:cx="356.09292"
-     inkscape:cy="182.66196"
+     inkscape:cx="286.16108"
+     inkscape:cy="324.204"
      inkscape:window-width="1920"
      inkscape:window-height="1121"
      inkscape:window-x="1911"
@@ -55,6 +55,42 @@
        visible="true"
        dotted="false" />
   </sodipodi:namedview>
+  <!-- Erstes Rechteck 80 x 200mm -->
+  <!-- Linke Spalte mit 4x15mm Rechtecken (ungefüllt) -->
+  <!-- Abstand von links: 10mm, Abstand von unten: 10mm, vertikaler Abstand: 15mm -->
+  <!-- Rechteck 1 (unten) -->
+  <!-- Rechteck 2 -->
+  <!-- Rechteck 3 -->
+  <!-- Rechteck 4 -->
+  <!-- Rechteck 5 -->
+  <!-- Rechteck 6 -->
+  <!-- Rechteck 7 (oben) -->
+  <!-- Rechte Spalte mit 4x15mm Rechtecken (ungefüllt) -->
+  <!-- Abstand von rechts: 10mm (d.h. x = 80 - 10 - 4 = 66mm) -->
+  <!-- Rechteck 1 (unten) -->
+  <!-- Rechteck 2 -->
+  <!-- Rechteck 3 -->
+  <!-- Rechteck 4 -->
+  <!-- Rechteck 5 -->
+  <!-- Rechteck 6 -->
+  <!-- Rechteck 7 (oben) -->
+  <!-- Zweites Rechteck 78 x 130mm (daneben) -->
+  <!-- Linke Spalte im zweiten Rechteck mit 15x4mm Rechtecken (horizontal) -->
+  <!-- Abstand von links: 10mm (82 + 10 = 92mm), Abstand von unten: 10mm, vertikaler Abstand: 15mm -->
+  <!-- Rechteck 1 (unten) -->
+  <!-- Rechteck 2 -->
+  <!-- Rechteck 3 -->
+  <!-- Rechteck 4 -->
+  <!-- Rechteck 5 -->
+  <!-- Rechteck 6 (oben) -->
+  <!-- Rechte Spalte im zweiten Rechteck mit 15x4mm Rechtecken (horizontal) -->
+  <!-- Abstand von rechts: 10mm (82 + 78 - 10 - 15 = 135mm) -->
+  <!-- Rechteck 1 (unten) -->
+  <!-- Rechteck 2 -->
+  <!-- Rechteck 3 -->
+  <!-- Rechteck 4 -->
+  <!-- Rechteck 5 -->
+  <!-- Rechteck 6 (oben) -->
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -85,21 +121,21 @@
      inkscape:label="Outer Shapes"
      style="display:inline">
     <rect
-       x="3.9900832"
-       y="-179.99658"
-       width="70.016052"
+       x="6.3149414"
+       y="-180.22467"
+       width="66"
        height="175.34277"
        fill="none"
        stroke="#000000"
-       stroke-width="0.468265"
+       stroke-width="0.454637"
        id="rect1"
        transform="rotate(90)"
        inkscape:label="track" />
     <path
        id="rect16"
        style="fill:none;stroke:#000000;stroke-width:0.5"
-       d="m 134.98204,80.344898 c 9.95214,-0.03367 20.01013,1.106829 20.01765,5.865043 0.008,4.758214 -11.11741,6.025992 -19.87295,6.092713 -8.75554,0.06672 -10.4246,22.260166 -10.39289,31.771606 0.0317,9.51144 0.8892,32.2092 10.49336,32.19503 9.93657,-0.0185 19.80069,1.00125 19.83689,6.18647 0.0344,4.92959 -10.3514,6.17226 -20.55152,6.01178 L 14.822067,168.34487 c -4.9834209,0.26515 -5.0821029,-11.60754 0.148021,-11.63844 l 19.983025,-0.12035 c 4.662705,0.0578 5.032761,-2.0307 5.106772,-4.0452 L 39.911862,96.26924 c -0.02467,-2.039171 -0.04934,-3.930319 -4.810728,-3.823165 L 15.266133,92.279364 C 10.036009,92.297809 9.8386457,80.32644 15.118111,80.344885 Z"
-       sodipodi:nodetypes="czzzcscccccccccc"
+       d="m 134.98204,80.344898 c 9.95214,-0.03367 19.89986,-0.02996 19.89986,5.970041 0,6 -10,6 -20,6 -10,0 -10,10.000001 -10,22.000001 0,12 0,22 10,22 10,0 20,0.81465 20,6 0,6 -9.63068,5.95572 -20,6 H 14.881897 c -5,0 -5,-12 0,-12 h 20 c 5,0 5,-2 5,-4 V 96.314939 c 0,-2 -0.238612,-4.107154 -5,-4 h -20 c -5,0 -5,-12 0,-12 z"
+       sodipodi:nodetypes="czzzzscccccccccc"
        inkscape:label="float" />
   </g>
   <g
@@ -107,8 +143,8 @@
      id="layer2"
      inkscape:label="Cutout Float">
     <rect
-       x="-35.425613"
-       y="-88.251488"
+       x="-34.833523"
+       y="-88.314941"
        width="15"
        height="4"
        fill="none"
@@ -119,7 +155,7 @@
        inkscape:label="magnet_u_1" />
     <rect
        x="-60.145351"
-       y="-88.008415"
+       y="-88.314941"
        width="15"
        height="4"
        fill="none"
@@ -129,8 +165,8 @@
        transform="scale(-1)"
        inkscape:label="magnet_u_2" />
     <rect
-       x="-84.865089"
-       y="-88.061539"
+       x="-84.717064"
+       y="-88.314941"
        width="15"
        height="4"
        fill="none"
@@ -140,8 +176,8 @@
        transform="scale(-1)"
        inkscape:label="magnet_u_3" />
     <rect
-       x="-35.425613"
-       y="-164.6422"
+       x="-34.89645"
+       y="-144.31494"
        width="15"
        height="4"
        fill="none"
@@ -151,8 +187,8 @@
        transform="scale(-1)"
        inkscape:label="magnet_d_1" />
     <rect
-       x="-60.145355"
-       y="-164.49419"
+       x="-59.881897"
+       y="-144.31494"
        width="15"
        height="4"
        fill="none"
@@ -162,8 +198,8 @@
        transform="scale(-1)"
        inkscape:label="magnet_d_2" />
     <rect
-       x="-85.387291"
-       y="-164.33217"
+       x="-85.154167"
+       y="-144.16692"
        width="15"
        height="4"
        fill="none"
@@ -173,8 +209,8 @@
        transform="scale(-1)"
        inkscape:label="magnet_d_3" />
     <rect
-       x="-110.33601"
-       y="-164.19911"
+       x="-109.8819"
+       y="-144.31494"
        width="15"
        height="4"
        fill="none"
@@ -184,8 +220,8 @@
        transform="scale(-1)"
        inkscape:label="magnet_d_4" />
     <rect
-       x="-110.12562"
-       y="-87.964539"
+       x="-109.8819"
+       y="-88.314941"
        width="15"
        height="4"
        fill="none"
@@ -196,7 +232,7 @@
        inkscape:label="magnet_u_4" />
     <rect
        x="-135.16405"
-       y="-87.981583"
+       y="-88.314941"
        width="15"
        height="4"
        fill="none"
@@ -206,8 +242,8 @@
        transform="scale(-1)"
        inkscape:label="magnet_u_5" />
     <rect
-       x="-134.73131"
-       y="-164.48019"
+       x="-134.8819"
+       y="-144.31494"
        width="15"
        height="4"
        fill="none"
@@ -217,12 +253,12 @@
        transform="scale(-1)"
        inkscape:label="magnet_d_5" />
     <ellipse
-       style="display:inline;fill:none;fill-rule:evenodd;stroke-width:0.5;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.450581;stroke-dasharray:none;stroke-opacity:1"
        id="path9"
-       cx="77.637733"
-       cy="124.2648"
-       rx="27.458153"
-       ry="20.057034" />
+       cx="74.881897"
+       cy="114.2047"
+       rx="25"
+       ry="17.889755" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -251,8 +287,8 @@
        transform="rotate(90)"
        inkscape:label="magnet_2_u" />
     <rect
-       x="9.9277"
-       y="-74.977165"
+       x="10.314941"
+       y="-74.881897"
        width="4"
        height="15"
        fill="none"
@@ -262,7 +298,7 @@
        transform="rotate(90)"
        inkscape:label="magnet_3_u" />
     <rect
-       x="10.223744"
+       x="10.314941"
        y="-99.796631"
        width="4"
        height="15"
@@ -273,8 +309,8 @@
        transform="rotate(90)"
        inkscape:label="magnet_4_u" />
     <rect
-       x="10.223744"
-       y="-125.35602"
+       x="10.314941"
+       y="-124.76393"
        width="4"
        height="15"
        fill="none"
@@ -284,7 +320,7 @@
        transform="rotate(90)"
        inkscape:label="magnet_5_u" />
     <rect
-       x="10.223744"
+       x="10.314941"
        y="-149.7312"
        width="4"
        height="15"
@@ -295,7 +331,7 @@
        transform="rotate(90)"
        inkscape:label="magnet_6_u" />
     <rect
-       x="10.071045"
+       x="10.314941"
        y="-174.8015"
        width="4"
        height="15"
@@ -306,7 +342,7 @@
        transform="rotate(90)"
        inkscape:label="magnet_7_u" />
     <rect
-       x="64.840866"
+       x="64.314941"
        y="-175.23421"
        width="4"
        height="15"
@@ -317,8 +353,8 @@
        transform="rotate(90)"
        inkscape:label="magnet_7_d" />
     <rect
-       x="64.595497"
-       y="-24.59901"
+       x="64.314941"
+       y="-24.881897"
        width="4"
        height="15"
        fill="none"
@@ -328,8 +364,8 @@
        transform="rotate(90)"
        inkscape:label="magnet_1_d" />
     <rect
-       x="64.743515"
-       y="-50.454262"
+       x="64.314941"
+       y="-49.881897"
        width="4"
        height="15"
        fill="none"
@@ -339,8 +375,8 @@
        transform="rotate(90)"
        inkscape:label="magnet_2_d" />
     <rect
-       x="64.595497"
-       y="-75.273216"
+       x="64.314941"
+       y="-74.881897"
        width="4"
        height="15"
        fill="none"
@@ -350,7 +386,7 @@
        transform="rotate(90)"
        inkscape:label="magnet_3_d" />
     <rect
-       x="64.447472"
+       x="64.314941"
        y="-99.944649"
        width="4"
        height="15"
@@ -361,7 +397,7 @@
        transform="rotate(90)"
        inkscape:label="magnet_4_d" />
     <rect
-       x="64.595497"
+       x="64.314941"
        y="-124.91195"
        width="4"
        height="15"
@@ -373,13 +409,13 @@
        inkscape:label="magnet_5_d" />
     <path
        style="display:inline;fill:none;stroke:#808080;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       d="m 10.213545,31.972837 v 13.914104 l 4.688101,-5.846884 0.07401,-2.312306 z"
+       d="m 9.881897,32.31494 v 14 l 5,-6 0,-2 z"
        id="path2"
        sodipodi:nodetypes="ccccc"
        inkscape:label="arrow" />
     <rect
-       x="64.891541"
-       y="-150.17526"
+       x="64.314941"
+       y="-150.02724"
        width="4"
        height="15"
        fill="none"
@@ -388,6 +424,17 @@
        id="rect15"
        transform="rotate(90)"
        inkscape:label="magnet_6_d" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.76111px;line-height:0.2;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+       x="107.9576"
+       y="116.31494"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:0.2;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0.5"
+         x="107.9576"
+         y="116.31494">DG</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
