@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="150.72729mm"
+   height="72.727295mm"
+   viewBox="0 0 150.7273 72.727295"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="parameter_scan.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title9">Magnetschwebebahn DG 2026</title>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.7874548"
+     inkscape:cx="269.9369"
+     inkscape:cy="177.06741"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="940.47729"
+       originy="674.47729"
+       spacingx="5.0000001"
+       spacingy="2"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <!-- Erstes Rechteck 80 x 200mm -->
+  <!-- Linke Spalte mit 4x15mm Rechtecken (ungefüllt) -->
+  <!-- Abstand von links: 10mm, Abstand von unten: 10mm, vertikaler Abstand: 15mm -->
+  <!-- Rechteck 1 (unten) -->
+  <!-- Rechteck 2 -->
+  <!-- Rechteck 3 -->
+  <!-- Rechteck 4 -->
+  <!-- Rechteck 5 -->
+  <!-- Rechteck 6 -->
+  <!-- Rechteck 7 (oben) -->
+  <!-- Rechte Spalte mit 4x15mm Rechtecken (ungefüllt) -->
+  <!-- Abstand von rechts: 10mm (d.h. x = 80 - 10 - 4 = 66mm) -->
+  <!-- Rechteck 1 (unten) -->
+  <!-- Rechteck 2 -->
+  <!-- Rechteck 3 -->
+  <!-- Rechteck 4 -->
+  <!-- Rechteck 5 -->
+  <!-- Rechteck 6 -->
+  <!-- Rechteck 7 (oben) -->
+  <!-- Zweites Rechteck 78 x 130mm (daneben) -->
+  <!-- Linke Spalte im zweiten Rechteck mit 15x4mm Rechtecken (horizontal) -->
+  <!-- Abstand von links: 10mm (82 + 10 = 92mm), Abstand von unten: 10mm, vertikaler Abstand: 15mm -->
+  <!-- Rechteck 1 (unten) -->
+  <!-- Rechteck 2 -->
+  <!-- Rechteck 3 -->
+  <!-- Rechteck 4 -->
+  <!-- Rechteck 5 -->
+  <!-- Rechteck 6 (oben) -->
+  <!-- Rechte Spalte im zweiten Rechteck mit 15x4mm Rechtecken (horizontal) -->
+  <!-- Abstand von rechts: 10mm (82 + 78 - 10 - 15 = 135mm) -->
+  <!-- Rechteck 1 (unten) -->
+  <!-- Rechteck 2 -->
+  <!-- Rechteck 3 -->
+  <!-- Rechteck 4 -->
+  <!-- Rechteck 5 -->
+  <!-- Rechteck 6 (oben) -->
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
+        <dc:title>Magnetschwebebahn DG 2026</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Outer Shapes"
+     style="display:inline"
+     transform="translate(-4.4045792,-5.8376236)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Cutout Float"
+     transform="translate(-4.4045792,-5.8376236)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Cutouts Track"
+     transform="translate(-4.4045792,-5.8376236)">
+    <rect
+       x="10.519789"
+       y="-25.043079"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect3"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_u" />
+    <rect
+       x="10.223744"
+       y="-49.862175"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect4"
+       transform="rotate(90)"
+       inkscape:label="magnet_2_u" />
+    <rect
+       x="10.314941"
+       y="-74.881897"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect5"
+       transform="rotate(90)"
+       inkscape:label="magnet_3_u" />
+    <rect
+       x="10.314941"
+       y="-99.796631"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect6"
+       transform="rotate(90)"
+       inkscape:label="magnet_4_u" />
+    <rect
+       x="10.314941"
+       y="-124.76393"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect7"
+       transform="rotate(90)"
+       inkscape:label="magnet_5_u" />
+    <rect
+       x="10.314941"
+       y="-149.7312"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8"
+       transform="rotate(90)"
+       inkscape:label="magnet_6_u" />
+    <rect
+       x="58.064919"
+       y="-25.131874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8-4-8"
+       transform="rotate(90)"
+       inkscape:label="magnet_7_d" />
+    <rect
+       x="58.314919"
+       y="-50.075943"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8-4-8-1"
+       transform="rotate(90)"
+       inkscape:label="magnet_7_d" />
+    <rect
+       x="58.314919"
+       y="-74.881874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8-4-8-15"
+       transform="rotate(90)"
+       inkscape:label="magnet_7_d" />
+    <rect
+       x="58.064919"
+       y="-99.631874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8-4-8-2"
+       transform="rotate(90)"
+       inkscape:label="magnet_7_d" />
+    <rect
+       x="46.314919"
+       y="-25.223986"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="46.314919"
+       y="-49.881874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect11"
+       transform="rotate(90)"
+       inkscape:label="magnet_2_d" />
+    <rect
+       x="46.564941"
+       y="-74.631897"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect12"
+       transform="rotate(90)"
+       inkscape:label="magnet_3_d" />
+    <rect
+       x="46.564941"
+       y="-99.694649"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect13"
+       transform="rotate(90)"
+       inkscape:label="magnet_4_d" />
+    <rect
+       x="46.564941"
+       y="-124.66195"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect14"
+       transform="rotate(90)"
+       inkscape:label="magnet_5_d" />
+    <rect
+       x="46.564941"
+       y="-149.77724"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect15"
+       transform="rotate(90)"
+       inkscape:label="magnet_6_d" />
+    <rect
+       x="58.314919"
+       y="-124.79668"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect14-2"
+       transform="rotate(90)"
+       inkscape:label="magnet_5_d" />
+    <rect
+       x="58.314919"
+       y="-149.91196"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect15-3"
+       transform="rotate(90)"
+       inkscape:label="magnet_6_d" />
+    <rect
+       x="70.064919"
+       y="-24.937813"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8-4-8-22"
+       transform="rotate(90)"
+       inkscape:label="magnet_7_d" />
+    <rect
+       x="70.314919"
+       y="-49.881874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8-4-8-1-1"
+       transform="rotate(90)"
+       inkscape:label="magnet_7_d" />
+    <rect
+       x="70.314919"
+       y="-74.68782"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8-4-8-15-6"
+       transform="rotate(90)"
+       inkscape:label="magnet_7_d" />
+    <rect
+       x="70.064919"
+       y="-99.43782"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect8-4-8-2-8"
+       transform="rotate(90)"
+       inkscape:label="magnet_7_d" />
+    <rect
+       x="70.314919"
+       y="-124.60262"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect14-2-5"
+       transform="rotate(90)"
+       inkscape:label="magnet_5_d" />
+    <rect
+       x="70.314919"
+       y="-149.7179"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect15-3-7"
+       transform="rotate(90)"
+       inkscape:label="magnet_6_d" />
+    <rect
+       x="22.314919"
+       y="-24.867315"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="34.314919"
+       y="-24.881874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-4"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="22.314919"
+       y="-49.867313"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-2"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="34.314919"
+       y="-49.881874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-4-4"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="22.314919"
+       y="-74.867317"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-5"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="34.314919"
+       y="-74.881874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-4-5"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="22.314919"
+       y="-99.86731"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-1"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="34.314919"
+       y="-99.881874"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-4-7"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="22.314919"
+       y="-124.86731"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-1-7"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="34.314919"
+       y="-124.88187"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-4-7-6"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="22.314919"
+       y="-149.86731"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-1-1"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       x="34.314919"
+       y="-149.88187"
+       width="4"
+       height="15"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="rect10-9-4-7-4"
+       transform="rotate(90)"
+       inkscape:label="magnet_1_d" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="150.22729"
+       height="72.227295"
+       x="4.6545787"
+       y="6.0876231" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Engraving"
+     transform="translate(-4.4045792,-5.8376236)" />
+</svg>
